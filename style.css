@@ -1,0 +1,45 @@
+.kotakluar{
+  border-style: solid;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.kotakitem{
+  background-color: black;
+  color: white;
+  position: relative;
+  height: 50px;
+  /* width: 50px; */
+
+}
+
+.Header2{
+  position: absolute;
+
+  margin-top: 7px;
+}
+
+.navbar {
+  float: right;
+
+  color: white;
+
+}
+
+.navbar a{
+  color: white;
+  text-decoration: none;
+}
+
+.kotakitem2{
+  background-color: black;
+  color: white;
+  position: relative;
+  height: 50px;
+  /* width: 50px; */
+
+p{
+  font-size: 30;
+}
